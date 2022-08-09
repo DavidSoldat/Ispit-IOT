@@ -1,2 +1,1 @@
-IOT project I made for an exam.
-Used modules: pyttsx3, imdb, speech_recognition, pyodbc.
+The python movie voice assistant i've made in the second year of my college. It uses speech recognition to recognise movies we want to know more about and uses the IMDbPY package to retrieve and manage the data of the IMDb. It also uses the pyttsx3 text-to-speech conversion library.
